@@ -19,6 +19,6 @@ The same applies to the IF, GRAB : FOR, and LOOP : WHILE statements.
 
 ````
     IF (condition)[
-        Logic();
+        Logic()
     ]
 ````
