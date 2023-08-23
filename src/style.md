@@ -15,7 +15,7 @@ When following K&R, each function has its opening brace at the next line on the 
 
 We use [ ] instead of { } to make it easier to read and write. As we believe { } should be used for JSON and other data structures.
 
-The same applies to the IF, GRAB : FOR, and LOOP : WHILE statements.
+The same applies to the IF, GRAB = FOR, and LOOP = WHILE statements.
 
 ````
     IF (condition)[
