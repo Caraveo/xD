@@ -5,7 +5,7 @@ export default defineConfig({
   description: "Documentation for The x language.",
 
   base: '/xD/',
-  assetsDir: 'assets',
+  assetsDir: 'static',
   themeConfig: {
 
     logo: 'assets/logo.png',
