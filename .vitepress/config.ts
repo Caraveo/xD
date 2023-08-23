@@ -8,7 +8,7 @@ export default defineConfig({
   assetsDir: 'assets',
   themeConfig: {
 
-    logo: '/logo.png',
+    logo: 'assets/logo.png',
     siteTitle: 'XPL',
     nav: [
       { text: 'Home', link: '/' },
