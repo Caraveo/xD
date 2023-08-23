@@ -4,11 +4,13 @@ export default defineConfig({
   title: "The x language",
   description: "Documentation for The x language.",
 
+  outDir: 'docs',
+  srcDir: 'src',
   base: '/xD/',
   assetsDir: 'static',
-  themeConfig: {
 
-    logo: 'logo.png',
+  themeConfig: {
+    logo: '/logo.png',
     siteTitle: 'XPL',
     nav: [
       { text: 'Home', link: '/' },

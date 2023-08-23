@@ -4,7 +4,7 @@ Interface-Data-Controller
 
 ## Learn about The X++ Design Pattern
 
-![IDC Design Pattern](/images/IDC_Design_Pattern.png "IDC Design Pattern")
+![IDC Design Pattern](/assets/images/IDC_Design_Pattern.png "IDC Design Pattern")
 In the “Interface-Data-Controller” (IDC) design pattern, we are taking a creative approach to adapting the MVC pattern by abstracting data processing and obscuring the controller, while placing more emphasis on the interface and user experience.
 
 The Model-View-Controller (MVC) design pattern is a widely used software architecture pattern that separates an application into three interconnected components: the model, the view, and the controller. The model represents the data and the business logic of the application, the view is responsible for displaying the data to the user, and the controller handles user input and updates the model and view accordingly.

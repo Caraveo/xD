@@ -15,23 +15,25 @@ hero:
     - theme: alt
       text: Why?
       link: /x
-  image: logo.png
 
 features:
-  - title: Mobile First
-    icon: 
-      dark: assets/icons/mobile.png
-      light: assets/icons/mobile.png
+  - icon: 
+      src: mobile.png
+      dark: mobile.png
+      light: mobile.png
+    title: Mobile First
     details: Build Native Mobile Apps
-  - title: Cloud Friendly
-    icon: 
-      dark: assets/icons/cloud.png
-      light: assets/icons/cloud.png
+  - icon: 
+      src: cloud.png
+      dark: cloud.png
+      light: cloud.png
+    title: Cloud Friendly
     details: Built from the ground up to be Cloud Ready
-  - title: XR Focused
-    icon: 
-      dark: assets/icons/xr.png
-      light: assets/icons/xr.png
+  - icon: 
+      src: xr.png
+      dark: xr.png
+      light: xr.png
+    title: XR Focused
     details: Ready for the next generation of Computing
 ---
 

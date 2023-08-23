@@ -4,7 +4,7 @@ Action-Object based Programming (AOP)
 
 ## Learn about The X++ Action Programming Paradigm
 
-![Action-Object Programming](/images/AOP_Paradigm.png "AOP Paradigm")
+![Action-Object Programming](/assets/images/AOP_Paradigm.png "AOP Paradigm")
 An “action-based object” Paradigm or Action-Object based Programming (AOP) in programming could refer to a programming paradigm where objects are defined with their actions, or methods, rather than their data.
 
 In this paradigm, the focus is on what an object can do, rather than what data it contains. This is in contrast to traditional object-oriented programming (OOP), where objects are defined by their data and the methods that operate on that data.
