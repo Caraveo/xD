@@ -6,7 +6,7 @@ export default defineConfig({
 
   outDir: 'docs',
   srcDir: 'src',
-  base: '/xD/',
+  base: '/',
   assetsDir: 'static',
 
   themeConfig: {
