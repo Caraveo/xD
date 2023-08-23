@@ -36,9 +36,10 @@ NEW: To implement a NEW instance of a class, you must use the NEW keyword.  In t
 ````
     RIDE NEW X2 X(STRING string, INTEGER int)[
         DISPLAY[string]
-        DISPLAY[int] **Convention: Pass variable ARGUMENTS
+        DISPLAY[int] 
     ]
 ````
+Convention: Can pass variable arguments.
 
 ![NEW RIDEABLE INSTANCE](/assets/images/RIDE.png "RIDE")
 

@@ -2,4 +2,6 @@ Do we need another "X" Language? Well, no. But we want it. We want to create a l
 
 Being built from kinda-scratch to be Cloud-ready, XR-focused, and mobile first. Yet is still Desktop-friendly.
 
-(ง︡'-'︠)ง That's big feature list... we are going to do it. (ง'-'︡ง)
+(ง︡'-'︠)ง 
+That's big feature list... we are going to do it.
+(ง'-'︡ง)
