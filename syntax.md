@@ -7,7 +7,7 @@ Type/Class/Method/Function: are implemented in First Letter Capitalized yet you 
     ]
 ````
 
-![CREATE A TYPE CLASS METHOD OR FUNCTION](assets/CREATE.png "CREATE")
+![CREATE A TYPE CLASS METHOD OR FUNCTION](images/CREATE.png "CREATE")
 
 **Call A Function**
 
@@ -16,7 +16,7 @@ CALL: EXECUTE/USE/GET/SET
     CALL X()
 ````
 
-![CALL METHOD](assets/CALL.png "CALL")
+![CALL METHOD](images/CALL.png "CALL")
 
 **CREATE an Instance of a... Class**
 
@@ -25,7 +25,7 @@ NEW: To implement a NEW instance of a class, you must use the NEW keyword.  In t
     NEW X2 X()
 ````
 
-![NEW INSTANCE](assets/NEW.png "NEW")
+![NEW INSTANCE](images/NEW.png "NEW")
 
 **RIDE and CREATE an Instance of... Class with Parameters**
 
@@ -40,7 +40,7 @@ NEW: To implement a NEW instance of a class, you must use the NEW keyword.  In t
     ]
 ````
 
-![NEW RIDEABLE INSTANCE](assets/RIDE.png "RIDE")
+![NEW RIDEABLE INSTANCE](images/RIDE.png "RIDE")
 
 **GRAB to ITERARATE through an INDEX**
  
