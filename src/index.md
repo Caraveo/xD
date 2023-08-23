@@ -15,6 +15,7 @@ hero:
     - theme: alt
       text: Why?
       link: /x
+  image: logo.png
 
 features:
   - icon: 
