@@ -4,6 +4,7 @@ export default defineConfig({
   title: "The x language",
   description: "Documentation for The x language.",
 
+  base: '/xD/',
   assetsDir: 'assets',
   themeConfig: {
 

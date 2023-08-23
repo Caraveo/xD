@@ -15,7 +15,7 @@ hero:
     - theme: alt
       text: Why?
       link: /x
-  image: /logo.png
+  image: assets/logo.png
 
 features:
   - title: Mobile First
